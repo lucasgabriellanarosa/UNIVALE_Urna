@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\bin\Debug\net10.0\Trabalho_ProgramaçãoII.exe
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\bin\Debug\net10.0\Trabalho_ProgramaçãoII.deps.json
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\bin\Debug\net10.0\Trabalho_ProgramaçãoII.runtimeconfig.json
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\bin\Debug\net10.0\Trabalho_ProgramaçãoII.dll
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\bin\Debug\net10.0\Trabalho_ProgramaçãoII.pdb
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.AssemblyInfo.cs
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.sourcelink.json
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.dll
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\refint\Trabalho_ProgramaçãoII.dll
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.pdb
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho_ProgramaçãoII.genruntimeconfig.cache
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\ref\Trabalho_ProgramaçãoII.dll
+C:\Users\Home\source\repos\Trabalho_ProgramaçãoII\obj\Debug\net10.0\Trabalho.789AF2E2.Up2Date
